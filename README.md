@@ -105,5 +105,4 @@ exit(EXIT_SUCCESS);
 # RESULT:
 The program is executed successfully.
 
-# RESULT:
-The program is executed successfully.
+
